@@ -89,6 +89,78 @@
             {
                 "symbol": "KINT",
                 "decimals": 12
+            },
+            {
+                "symbol": "kBTC",
+                "decimals": 8
+            },
+            {
+                "symbol": "TAI",
+                "decimals": 12
+            },
+            {
+                "symbol": "vsKSM",
+                "decimals": 12
+            },
+            {
+                "symbol": "taiKSM",
+                "decimals": 12
+            },
+            {
+                "symbol": "QTZ",
+                "decimals": 18
+            },
+            {
+                "symbol": "MOVR",
+                "decimals": 18
+            },
+            {
+                "symbol": "HKO",
+                "decimals": 12
+            },
+            {
+                "symbol": "CSM",
+                "decimals": 12
+            },
+            {
+                "symbol": "USDT",
+                "decimals": 6
+            },
+            {
+                "symbol": "KMA",
+                "decimals": 12
+            },
+            {
+                "symbol": "TEER",
+                "decimals": 12
+            },
+            {
+                "symbol": "KICO",
+                "decimals": 14
+            },
+            {
+                "symbol": "NEER",
+                "decimals": 18
+            },
+            {
+                "symbol": "BSX",
+                "decimals": 12
+            },
+            {
+                "symbol": "AIR",
+                "decimals": 18
+            },
+            {
+                "symbol": "GENS",
+                "decimals": 9
+            },
+            {
+                "symbol": "EQD",
+                "decimals": 9
+            },
+            {
+                "symbol": "CRAB",
+                "decimals": 18
             }
         ],
         "subscanURL": "https://karura.api.subscan.io",
@@ -99,5 +171,90 @@
             }
         ],
         "addressPrefix": 8
+    },
+    {
+        "id": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
+        "name": "Edgeware",
+        "tokens": [
+            {
+                "symbol": "EDG",
+                "decimals": 18
+            }
+        ],
+        "subscanURL": "https://edgeware.api.subscan.io",
+        "nodes": [
+            {
+                "url": "wss://edgeware-rpc.dwellir.com",
+                "name": "Dwellir node"
+            }
+        ],
+        "addressPrefix": 7
+    },
+    {
+        "id": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c",
+        "parentId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+        "name": "Acala",
+        "tokens": [
+            {
+                "symbol": "ACA",
+                "decimals": 12
+            },
+            {
+                "symbol": "LDOT",
+                "decimals": 10
+            },
+            {
+                "symbol": "aUSD",
+                "decimals": 12
+            },
+            {
+                "symbol": "DOT",
+                "decimals": 10
+            },
+            {
+                "symbol": "lcDOT",
+                "decimals": 10
+            },
+            {
+                "symbol": "GLMR",
+                "decimals": 18
+            },
+            {
+                "symbol": "PARA",
+                "decimals": 12
+            },
+            {
+                "symbol": "TAP",
+                "decimals": 12
+            },
+            {
+                "symbol": "tDOT",
+                "decimals": 10
+            },
+            {
+                "symbol": "INTR",
+                "decimals": 10
+            },
+            {
+                "symbol": "ASTR",
+                "decimals": 18
+            },
+            {
+                "symbol": "EQ",
+                "decimals": 9
+            },
+            {
+                "symbol": "iBTC",
+                "decimals": 8
+            }
+        ],
+        "subscanURL": "https://acala.api.subscan.io",
+        "nodes": [
+            {
+                "url": "wss://acala-rpc.dwellir.com",
+                "name": "Dwellir node"
+            }
+        ],
+        "addressPrefix": 10
     }
 ]
