@@ -4,7 +4,6 @@
         "name": "Polkadot",
         "tokens": [
             {
-                "id": 6636,
                 "symbol": "DOT",
                 "decimals": 10
             }
@@ -23,7 +22,6 @@
         "name": "Kusama",
         "tokens": [
             {
-                "id": 12458,
                 "symbol": "KSM",
                 "decimals": 12
             }
@@ -42,7 +40,6 @@
         "name": "Westend",
         "tokens": [
             {
-                "id": 12314,
                 "symbol": "WND",
                 "decimals": 12
             }
@@ -62,17 +59,14 @@
         "name": "Karura",
         "tokens": [
             {
-                "id": 12458,
                 "symbol": "KAR",
                 "decimals": 12
             },
             {
-                "id": 15610,
                 "symbol": "aUSD",
                 "decimals": 12
             },
             {
-                "id": 12458,
                 "symbol": "KSM",
                 "decimals": 12
             }
