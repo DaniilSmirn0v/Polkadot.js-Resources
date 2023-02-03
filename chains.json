@@ -63,6 +63,10 @@
                 "decimals": 12
             },
             {
+                "symbol": "PHA",
+                "decimals": 12
+            },
+            {
                 "symbol": "aUSD",
                 "decimals": 12
             },
